@@ -100,7 +100,7 @@ export default function Navigation() {
                 </button>
               ))}
               <a
-                href="mailto:hello@yashmalav.com"
+                href="mailto:hello@yashm.me"
                 className="mt-4 w-full px-6 py-3 bg-gray-900 text-white rounded-full font-light text-sm text-center hover:bg-gray-800 transition-colors flex items-center justify-center gap-2"
               >
                 <Mail className="w-4 h-4" />
