@@ -57,6 +57,26 @@ const featuredProjects = [
     category: 'Dashboard , Analytics & QR Screen',
     imageUrl: 'https://pub-716f19976bdb47199c4f009f252c1d36.r2.dev/gdesings/Gemini_Generated_Image_u07kn8u07kn8u07k.png',
   },
+  {
+    title: 'Video Editor Hiring Post',
+    category: 'LinkedIn Campaign & Social Media',
+    imageUrl: 'https://pub-716f19976bdb47199c4f009f252c1d36.r2.dev/designs/videoeditorhiringpostlinkedin2.jpg',
+  },
+  {
+    title: 'Project Thumbnail',
+    category: 'Motion Graphics & Preview Design',
+    imageUrl: 'https://pub-716f19976bdb47199c4f009f252c1d36.r2.dev/designs/Thumbnail_Project_%232.jpg',
+  },
+  {
+    title: 'UI Design Screenshot',
+    category: 'Interface Layout & Components',
+    imageUrl: 'https://pub-716f19976bdb47199c4f009f252c1d36.r2.dev/designs/Screenshot%202026-01-21%20at%208.57.37%20PM.png',
+  },
+  {
+    title: 'DOA Teaser Thumbnail',
+    category: 'Game Art & Promotional Material',
+    imageUrl: 'https://pub-716f19976bdb47199c4f009f252c1d36.r2.dev/designs/DOA_Thumbnail_02_4.jpg',
+  },
 ];
 
 export default function FeaturedProjects() {
